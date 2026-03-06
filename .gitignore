@@ -1,0 +1,55 @@
+# Java
+target/
+*.jar
+*.class
+*.log
+.classpath
+.project
+.settings/
+.vscode/
+*.swp
+*.swo
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.cache/
+
+# IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+*.sublime-project
+*.sublime-workspace
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+.cache
+.parcel-cache
+
+# Build outputs
+build/
+dist/
+out/
+
+# Misc
+*.orig
+.DS_Store
